@@ -2,8 +2,7 @@ import tkinter as tk
 from game_logic import game_result
 from difficulty_levels import get_computer_choice
 from PIL import Image, ImageTk
-#git config --global user.email "faizanazhar12@gmail.com"
-#git config --global user.name "faizanazhar759"
+
 # Sound effects (ensure 'wins' and 'lose' sounds exist in assets/sounds)
 import pygame
 pygame.mixer.init()
