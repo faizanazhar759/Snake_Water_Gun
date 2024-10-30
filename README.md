@@ -103,4 +103,4 @@ Here are some additional suggestions to enhance the game:
 5. **Leaderboard:**
    - Implement a leaderboard to keep track of high scores.
 
-By following these steps and suggestions, you’ll set up your GitHub repository properly and make your project accessible and engaging for others. If you need more help with any specific part, feel free to ask!
+By following these steps and suggestions, you’ll set up your GitHub repository properly and make your project more exciting.
